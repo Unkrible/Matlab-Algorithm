@@ -1,0 +1,2 @@
+Xzr	type1	15	19	Yes
+Yf	type2	15	20	No
